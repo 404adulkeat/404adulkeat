@@ -11,15 +11,6 @@
 ## 🚀 About Me
 
 💻 Software Developer focused on modern web technologies.  
-⚡ Building scalable full-stack applications with React and ASP.NET Core (C#).  
-🎨 Passionate about clean, responsive UI using Tailwind CSS.  
-🎯 Focused on performance, maintainability, and modern design principles.
-
----
-
-## 🚀 About Me
-
-💻 Software Developer focused on modern web technologies.  
 ⚡ Building scalable full-stack applications with React, ASP.NET Core (C#) and Node.js.  
 🎨 Passionate about clean, responsive UI using Tailwind CSS.  
 🎯 Focused on performance, maintainability, and modern design principles.
