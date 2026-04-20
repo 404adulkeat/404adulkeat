@@ -11,9 +11,9 @@
 ## 🚀 About Me
 
 💻 Software Developer focused on modern web technologies.  
-⚡ Experienced in building full-stack applications with JavaScript & TypeScript ecosystems.  
-🗄️ Strong background in database systems and backend development.  
-🎯 Interested in scalable systems, clean architecture, and performance.
+⚡ Building full-stack applications with React and ASP.NET Core.  
+🗄️ Experienced in relational databases and backend systems.  
+🎯 Interested in scalable architecture, performance, and clean code.
 
 ---
 
@@ -26,12 +26,12 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" />
 </p>
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
 ### 🗄️ Databases
@@ -53,14 +53,14 @@
 
 ## 🌐 Projects
 
-🚀 I build and experiment with:
+🚀 I build and focus on:
 
-- 🌍 Full-stack web applications (React + Node.js + .NET)
+- 🌍 Full-stack applications (React + ASP.NET Core)
 - 🗄️ Database-driven systems (MySQL & MSSQL)
-- 🧠 Backend APIs & scalable architectures
-- 🎨 Responsive UI projects with Bootstrap, HTML & CSS
+- 🧠 RESTful APIs and backend services
+- 🎨 Modern UI with Tailwind, Bootstrap, HTML & CSS
 
-🔗 Explore all my work here:  
+🔗 Explore my repositories:  
 👉 https://github.com/404adulkeat?tab=repositories
 
 ## ⚡ Fun Fact
