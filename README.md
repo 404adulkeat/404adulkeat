@@ -10,22 +10,34 @@
 
 ## 🚀 About Me
 
-💻 Passionate Software Developer focused on modern web technologies and blockchain.  
-⚡ Building scalable full-stack apps & smart contract systems.  
-🧠 Always learning, always shipping.
+💻 Software Developer focused on modern web technologies.  
+⚡ Experienced in building full-stack applications with JavaScript & TypeScript ecosystems.  
+🗄️ Strong background in database systems and backend development.  
+🎯 Interested in scalable systems, clean architecture, and performance.
 
 ---
 
 ## 🛠 Tech Stack
 
+### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,next,node,express,solidity,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
 </p>
 
+### 🌐 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white">
-  <img src="https://img.shields.io/badge/Wagmi-7c3aed?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Viem-111827?style=for-the-badge">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/MSSQL-cc2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
 
 ---
@@ -41,14 +53,15 @@
 
 ## 🌐 Projects
 
-🚧 Check out my repositories for:  
-- Smart Contracts  
-- Full-stack Projects  
-- Experimental Builds  
+🚀 I build and experiment with:
 
+- 🌍 Full-stack web applications (React + Node.js + .NET)
+- 🗄️ Database-driven systems (MySQL & MSSQL)
+- 🧠 Backend APIs & scalable architectures
+- 🎨 Responsive UI projects with Bootstrap, HTML & CSS
+
+🔗 Explore all my work here:  
 👉 https://github.com/404adulkeat?tab=repositories
-
----
 
 ## ⚡ Fun Fact
 
